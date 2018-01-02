@@ -1,8 +1,8 @@
-## Phil Burlina
+# Phil Burlina
 
 &nbsp;&nbsp;&nbsp;
 
-#### Current position
+### Current position
 
 -Principal scientist / JHUAPL Intelligent Systems Center
 
