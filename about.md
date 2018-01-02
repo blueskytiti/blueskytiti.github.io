@@ -47,7 +47,7 @@ Machine intelligence/vision/learning: deep learning, zero-shot learning, unsuper
 
 Matlab, Python, C++, Keras, OpenCV, most Python data science libraries, PHP, MySQL, ...
 
-### Some current and past collaborators and mentors:
+### Some current and past collaborators and mentors
 
 [Mauro Maggioni (JHUApplied Math and Statistics/Faculty)](http://www.math.jhu.edu/~mauro/)
 <a href="http://www.umiacs.umd.edu/%7Erama/">R. Chellappa (UMCP/EE Chair) </a> 
