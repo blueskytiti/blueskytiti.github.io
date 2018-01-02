@@ -1,14 +1,13 @@
 [[home]](./index.html)
 [[about]](./about.html)
 [[papers]](./papers.html)
-[[resources]](./paper_summaries.html)
+[[resources]](./resources.html)
 [[CV]](./cv.html)
 [[other]](./other.html)
 
+&nbsp;&nbsp;&nbsp;
 
 # Phil Burlina
-
-&nbsp;&nbsp;&nbsp;
 
 ### Current position
 
