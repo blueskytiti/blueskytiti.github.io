@@ -5,6 +5,8 @@
 
 [google scholar search](https://scholar.google.com/scholar?hl=en&q=philippe+burlina&btnG=&as_sdt=1%2C21&as_sdtp=)
 
+### some recent papers
+
 [1]	P. Burlina, et al. "Automated Grading of Age-Related Macular Degeneration From Color Fundus Images Using Deep Convolutional Neural Networks." JAMA ophthalmology, 2017.
 
 [2]	 P. Burlina, “MRCNN: A Stateful Fast R-CNN”, Int. Conference on Pattern Recognition, 2016.
