@@ -1,7 +1,8 @@
 ## Phil Burlina
 
+&nbsp;&nbsp;&nbsp;
 
-####Current position
+#### Current position
 
 -Principal scientist / JHUAPL Intelligent Systems Center
 
@@ -36,10 +37,10 @@ Machine intelligence/vision/learning: deep learning, zero-shot learning, unsuper
 
 #### Main tools, languages, frameworks
 
-Matlab, Python, C++, PHP, MySQL,...
-Keras, OpenCV, most Python data science libraries, ...
+Matlab, Python, C++, Keras, OpenCV, most Python data science libraries, PHP, MySQL, ...
 
 #### Present/past collaborators:
+
 <a http://www.math.jhu.edu/~mauro/"> Mauro Maggioni (JHUApplied Math and Statistics/Faculty)</a>
 <a href="https://www.hopkinsrheumatology.org/our-team/faculty/bio/jemima-albayda/"> J. Albayda (JHU Rheumatology/Faculty)</a>
 <a href="http://www.bme.jhu.edu/people/primary.php?id=370">E. McVeigh (JHU BME/Chair)</a>
@@ -63,5 +64,5 @@ Keras, OpenCV, most Python data science libraries, ...
 <a href="https://en.wikipedia.org/wiki/Azriel_Rosenfeld"> A. Rosenfeld</a>
 <a href="http://www.umiacs.umd.edu/~lsd/"> L.S.Davis</a>
 
-&nbsp;
+
 
