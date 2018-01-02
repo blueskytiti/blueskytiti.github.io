@@ -11,7 +11,7 @@
 
 [about](./about.html)
 
-# Work/Research/Development
+# Work/Research/Projects
 
 ### Zero / X-shot learning / learning in low training data regimes
 [Semantic Zero Shot Learning](http://ieeexplore.ieee.org/document/7424431/)
@@ -33,25 +33,27 @@
 
 ### Deep learning / machine learning in medicine 
 
-[Deep learning for muscle diseases](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184059)
+[Deep learning for rare muscle disease diagnostics](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184059)
 
-[Deep learning / AMD](http://ieeexplore.ieee.org/abstract/document/7493240/)
+[Deep learning / AMD diagnostics](http://ieeexplore.ieee.org/abstract/document/7493240/)
 
-[Machine learning + physics modeling for Mitral valve / cardiac surgery](https://link.springer.com/chapter/10.1007/978-3-642-13711-2_13#page-1)
+[Unsupervised deep learning methods for interpretation of autistic patients facial expressions]()
 
-[Patient specific cardiac modeling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3760036/)
+[Machine learning + physics modeling applied to Mitral valve / cardiac surgery recommendation](https://link.springer.com/chapter/10.1007/978-3-642-13711-2_13#page-1)
+
+[Patient specific cardiac surgery modeling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3760036/)
 
 [ML / 1D ultrasound for breast cancer detection]()
 
-[ML to invert physics models for skin modeling](http://www.ncbi.nlm.nih.gov/pubmed/25561244)
+[Combined machine learning and physics models for skin diagnostics](http://www.ncbi.nlm.nih.gov/pubmed/25561244)
 
-[ML for etimation of skin constituents](http://www.ncbi.nlm.nih.gov/pubmed/25561244)
+[Machine learning for estimation of skin constituents](https://www.spiedigitallibrary.org/journals/Journal-of-Biomedical-Optics/volume-18/issue-5/057008/Estimating-physiological-skin-parameters-from-hyperspectral-signatures/10.1117/1.JBO.18.5.057008.short)
 
 ### Deep learning for retinal image analysis
 
-[Automated Grading of Age-Related Macular Degeneration via DCNNs](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2654969?guestAccessKey=8b7d58b3-4316-4721-9de5-5dec5d3bc62d)
+[Automated grading of age-related macular degeneration via deep learning](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2654969?guestAccessKey=8b7d58b3-4316-4721-9de5-5dec5d3bc62d)
 
-[Human level diagnostics via deep learning](http://www.sciencedirect.com/science/article/pii/S0010482517300240)
+[Human level diagnostics ofAMD via deep learning](http://www.sciencedirect.com/science/article/pii/S0010482517300240)
 
 [Johns Hopkins APL, Wilmer Eye Institute to Develop Tools to Detect Age-Related Macular Degeneration](http://www.jhuapl.edu/newscenter/pressreleases/2015/150901.asp)
 
