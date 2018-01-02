@@ -1,4 +1,4 @@
-[[## home]](./index.html)
+[[home]](./index.html)
 [[about]](./about.html)
 [[papers]](./papers.html)
 [[resources]](./paper_summaries.html)
@@ -61,4 +61,4 @@
 [distributed vision sensors, consensus pose estimation](http://icwww.epfl.ch/~jorstad/Files/Distributed_Consensus_on_Camera_Pose.pdf)
 
 ## Resources
-[[interesting paper summaries]](./paper_summaries.html)
+[interesting paper summaries](./paper_summaries.html)
