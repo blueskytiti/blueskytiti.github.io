@@ -1,4 +1,11 @@
 
+[[home]](./index.html)
+[[about]](./about.html)
+[[papers]](./papers.html)
+[[resources]](./paper_summaries.html)
+[[CV]](./cv.html)
+[[other]](./other.html)
+
 
 
 [most recent papers from google scholar](https://scholar.google.com/citations?hl=en&user=R2WeuqAAAAAJ&view_op=list_works&sortby=pubdate)
