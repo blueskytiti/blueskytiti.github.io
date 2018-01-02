@@ -41,7 +41,7 @@ Matlab, Python, C++, Keras, OpenCV, most Python data science libraries, PHP, MyS
 
 #### Present/past collaborators:
 
-<a http://www.math.jhu.edu/~mauro/"> Mauro Maggioni (JHUApplied Math and Statistics/Faculty)</a>
+[Mauro Maggioni (JHUApplied Math and Statistics/Faculty)](http://www.math.jhu.edu/~mauro/)
 <a href="https://www.hopkinsrheumatology.org/our-team/faculty/bio/jemima-albayda/"> J. Albayda (JHU Rheumatology/Faculty)</a>
 <a href="http://www.bme.jhu.edu/people/primary.php?id=370">E. McVeigh (JHU BME/Chair)</a>
 <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiviqiZi_zJAhVC5SYKHYaOA3UQFgggMAA&amp;url=http%3A%2F%2Fwww.cs.jhu.edu%2F~hager%2F&amp;usg=AFQjCNERhCo7ptBL7RzcIdxzYJLhXpZlkg&amp;sig2=OHIBjxXdTjv4BJr3COvptQ">G. Hager (JHU CS/Faculty) </a> 
