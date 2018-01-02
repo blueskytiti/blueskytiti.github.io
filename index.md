@@ -5,11 +5,13 @@
 [[CV]](./cv.html)
 [[other]](./other.html)
 
-## About
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+# About
 
 [about](./about.html)
 
-## Work/Research/Development
+# Work/Research/Development
 
 ### Zero / X-shot learning / learning in low training data regimes
 [Semantic Zero Shot Learning](http://ieeexplore.ieee.org/document/7424431/)
