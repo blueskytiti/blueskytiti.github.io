@@ -50,8 +50,8 @@ Matlab, Python, C++, Keras, OpenCV, most Python data science libraries, PHP, MyS
 
 [Mauro Maggioni (JHUApplied Math and Statistics/Faculty)](http://www.math.jhu.edu/~mauro/)
 <a href="http://www.umiacs.umd.edu/%7Erama/">R. Chellappa (UMCP/EE Chair) </a> 
-<a href="http://www.ee.iitm.ac.in/~raju/">AN Rajagopalan</a> 
 <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiviqiZi_zJAhVC5SYKHYaOA3UQFgggMAA&amp;url=http%3A%2F%2Fwww.cs.jhu.edu%2F~hager%2F&amp;usg=AFQjCNERhCo7ptBL7RzcIdxzYJLhXpZlkg&amp;sig2=OHIBjxXdTjv4BJr3COvptQ">G. Hager (JHU CS/Faculty) </a> 
+<a href="http://www.ee.iitm.ac.in/~raju/">AN Rajagopalan</a> 
 <a href="https://en.wikipedia.org/wiki/Azriel_Rosenfeld"> A. Rosenfeld</a>
 <a href="http://www.umiacs.umd.edu/~lsd/"> L.S.Davis</a>
 <a href="http://www.cfar.umd.edu/%7Edaniel/Site_2/Welcome.html">D. DeMenthon (Magic Leap) </a>
