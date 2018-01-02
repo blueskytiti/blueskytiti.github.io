@@ -42,27 +42,27 @@ Matlab, Python, C++, Keras, OpenCV, most Python data science libraries, PHP, MyS
 #### Present/past collaborators:
 
 [Mauro Maggioni (JHUApplied Math and Statistics/Faculty)](http://www.math.jhu.edu/~mauro/)
-<a href="https://www.hopkinsrheumatology.org/our-team/faculty/bio/jemima-albayda/"> J. Albayda (JHU Rheumatology/Faculty)</a>
-<a href="http://www.bme.jhu.edu/people/primary.php?id=370">E. McVeigh (JHU BME/Chair)</a>
-<a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiviqiZi_zJAhVC5SYKHYaOA3UQFgggMAA&amp;url=http%3A%2F%2Fwww.cs.jhu.edu%2F~hager%2F&amp;usg=AFQjCNERhCo7ptBL7RzcIdxzYJLhXpZlkg&amp;sig2=OHIBjxXdTjv4BJr3COvptQ">G. Hager (JHU CS/Faculty) </a> 
 <a href="http://www.umiacs.umd.edu/%7Erama/">R. Chellappa (UMCP/EE Chair) </a> 
-<a href="http://cis.jhu.edu/%7Ervidal/">R. Vidal (JHU BME/Faculty) </a> 
-<a href="http://www.cfar.umd.edu/%7Edaniel/Site_2/Welcome.html">D. DeMenthon (Magic Leap) </a>
-<a href="http://www.hopkinsmedicine.org/wilmer/employees/cvs/Bressler_N.html">N. Bressler (JHU Ophtlmology-Retina dept. chair)</a> 
-<a href="http://www.mast.queensu.ca/%7Efady/">F. Alajaji (Math Dept. Queens U (CA)/Faculty)  </a> 
-<a href="http://www.hopkinsmedicine.org/heart_vascular_institute/experts/physician_profile.html?profile=4CC92C51C062B4A0843BB8C6A978AC90&amp;directory=1B2D0F30B59D39A341B0C23CB2B204D9">T. Abraham JHU Cardiology Faculty)</a> 
-<a href="http://www.hopkinsmedicine.org/emergencymedicine/Faculty/Bayview/hoffmann.html"> B. Hoffmann (Harvard U. Emergency Medicine)</a> 
-<a href="http://www.bme.jhu.edu/people/primary.php?id=391">A. Levchenko (Yale BME/Faculty)</a> <a href="http://ymg.yale.edu/news/september2011/roboticspecialist.aspx"> D. Yuh (Yale Dept of Cardiothoracic Surgery) </a> <a href="http://www.umm.edu/doctors/james_s_gammie.html">J. Gammie, </a><a href="http://cvlabwww.epfl.ch/~jorstad/">A. Jorstad (EPFL)</a> 
-<a href="https://www.cs.umd.edu/~chiraz/"> C. BenAbdelkader</a>
-<a href="https://www.pdx.edu/math/faculty-staff-0"> B. Jedynak (Oregon state/Faculty) </a>
-<a href="http://www.ophtalmologie-lariboisiere.fr/fr/accueil/equipe">B.Dupas (Hopital Lariboisiere/ Chef de clinique-Assistant)</a>
-<a href="http://www.computing.dundee.ac.uk/about/staff/26">E. Trucco</a>
-<a href="http://www.cpdiehl.org/">C. Diehl (Motiva.ai/CTO)</a> 
-<a href="http://www.seas.gwu.edu/~eom/">K. Eom</a>
-<a href="http://www.umiacs.umd.edu/~lsd/">D. Herzka</a>
 <a href="http://www.ee.iitm.ac.in/~raju/">AN Rajagopalan</a> 
+<a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiviqiZi_zJAhVC5SYKHYaOA3UQFgggMAA&amp;url=http%3A%2F%2Fwww.cs.jhu.edu%2F~hager%2F&amp;usg=AFQjCNERhCo7ptBL7RzcIdxzYJLhXpZlkg&amp;sig2=OHIBjxXdTjv4BJr3COvptQ">G. Hager (JHU CS/Faculty) </a> 
 <a href="https://en.wikipedia.org/wiki/Azriel_Rosenfeld"> A. Rosenfeld</a>
 <a href="http://www.umiacs.umd.edu/~lsd/"> L.S.Davis</a>
+<a href="http://www.cfar.umd.edu/%7Edaniel/Site_2/Welcome.html">D. DeMenthon (Magic Leap) </a>
+<a href="http://www.mast.queensu.ca/%7Efady/">F. Alajaji (Math Dept. Queens U (CA)/Faculty)  </a> 
+<a href="https://www.pdx.edu/math/faculty-staff-0"> B. Jedynak (Oregon state/Faculty) </a>
+<a href="https://www.cs.umd.edu/~chiraz/"> C. BenAbdelkader</a>
+<a href="http://www.computing.dundee.ac.uk/about/staff/26">E. Trucco</a>
+<a href="http://www.cpdiehl.org/">C. Diehl (Motiva.ai/CTO)</a> 
 
+<a href="http://www.hopkinsmedicine.org/wilmer/employees/cvs/Bressler_N.html">N. Bressler (JHU Ophtlmology-Retina dept. chair)</a> 
+<a href="http://www.hopkinsmedicine.org/heart_vascular_institute/experts/physician_profile.html?profile=4CC92C51C062B4A0843BB8C6A978AC90&amp;directory=1B2D0F30B59D39A341B0C23CB2B204D9">T. Abraham JHU Cardiology Faculty)</a> 
+<a href="http://www.hopkinsmedicine.org/emergencymedicine/Faculty/Bayview/hoffmann.html"> B. Hoffmann (Harvard U. Emergency Medicine)</a> 
+<a href="http://www.bme.jhu.edu/people/primary.php?id=391">A. Levchenko (Yale BME/Faculty)</a> 
+<a href="http://www.umm.edu/doctors/james_s_gammie.html">J. Gammie, </a><a href="http://cvlabwww.epfl.ch/~jorstad/">A. Jorstad (EPFL)</a> 
+<a href="http://www.ophtalmologie-lariboisiere.fr/fr/accueil/equipe">B.Dupas (Hopital Lariboisiere/ Chef de clinique-Assistant)</a>
+<a href="http://www.seas.gwu.edu/~eom/">K. Eom</a>
+<a href="http://www.umiacs.umd.edu/~lsd/">D. Herzka</a>
+<a href="https://www.hopkinsrheumatology.org/our-team/faculty/bio/jemima-albayda/"> J. Albayda (JHU Rheumatology/Faculty)</a>
+<a href="http://www.bme.jhu.edu/people/primary.php?id=370">E. McVeigh (JHU BME/Chair)</a>
 
 
