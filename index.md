@@ -1,10 +1,13 @@
-[[home]](./index.html)
+[[## home]](./index.html)
 [[about]](./about.html)
 [[papers]](./papers.html)
 [[resources]](./paper_summaries.html)
 [[CV]](./cv.html)
 [[other]](./other.html)
 
+
+
+## Work/Research/Development
 
 ### Zero / X-shot learning / learning in low training data regimes
 [Semantic Zero Shot Learning](http://ieeexplore.ieee.org/document/7424431/)
@@ -55,7 +58,7 @@
 
 ### Other
 
-
 [distributed vision sensors, consensus pose estimation](http://icwww.epfl.ch/~jorstad/Files/Distributed_Consensus_on_Camera_Pose.pdf)
 
-
+## Resources
+[[interesting paper summaries]](./paper_summaries.html)
