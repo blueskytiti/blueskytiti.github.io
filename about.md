@@ -11,7 +11,7 @@ and [Whiting School of Engineering](https://ep.jhu.edu/about-us/faculty-director
 
 -<a href="http://www.hopkinsmedicine.org/profiles/results/directory/profile/9606312/philippe-burlina">Joint faculty</a> / Johns Hopkins University <a href="http://www.hopkinsmedicine.org/wilmer/">School of Medicine, Wilmer Eye Institute</a>
 
-#### Previous positions
+### Previous positions
 
 -Director, software development / <a href="http://www-01.ibm.com/software/data/content-management/filenet-content-manager/">FileNET</a> (now part of IBM)
 
@@ -19,7 +19,11 @@ and [Whiting School of Engineering](https://ep.jhu.edu/about-us/faculty-director
 
 -Co-founder and tech lead / <a href="http://investors.saic.com/phoenix.zhtml?c=193857&amp;p=irol-newsarticle&amp;id=1438859">ImageCorp </a>(purchased by SET/SAIC/Leidos)
 
-#### Education
+### Areas of expertise
+
+Machine intelligence, deep learning, machine perception, machine learning, computer vision, deep learning applications for medical diagnostics, biomedical image analysis, bioimaging, video tracking, multi-modal imaging, hyperspectral image/video analysis; Enterprise software systems and SDLC.
+
+### Education
 
 -Ph.D., M.S., Electrical Engineering, University of Maryland, College Park. (Computer Vision)
 
@@ -27,19 +31,15 @@ and [Whiting School of Engineering](https://ep.jhu.edu/about-us/faculty-director
 
 -University of  Pennsylvania, Philadelphia, PA. (Electrical Engineering)
 
-#### Areas of expertise
-
-Machine intelligence, deep learning, machine perception, machine learning, computer vision, deep learning applications in medical diagnostics, biomedical image analysis, bioimaging, video tracking, multi-modal imaging, hyperspectral image/video analysis; Enterprise software systems: content and e-process management, SDLC.
-
-#### Specific areas
+### Specific areas of expertise and research interest
 
 Machine intelligence/vision/learning: deep learning, zero-shot learning, unsupervised learning,  temporally tracking DCNNs, transfer learning, detection, tracking, motion analysis, biomimetic algorithms, distributed visual sensing, machine learning for machine vision, hyperspectral imaging, 3D image analysis. Bioimaging applications in: automated retinal image analysis, rheumatology and muscle disease, skin cancer, breast cancer detection, image analysis for pre-operative surgical planning, patient specific biomechanical modeling, real-time 3D echocardiographic image analysis, cell image analysis, hyperspectral medical imaging, skin hyperspectral analysis.
 
-#### Main tools, languages, frameworks
+### Main tools, languages, frameworks
 
 Matlab, Python, C++, Keras, OpenCV, most Python data science libraries, PHP, MySQL, ...
 
-#### Some current and past collaborators and mentors:
+### Some current and past collaborators and mentors:
 
 [Mauro Maggioni (JHUApplied Math and Statistics/Faculty)](http://www.math.jhu.edu/~mauro/)
 <a href="http://www.umiacs.umd.edu/%7Erama/">R. Chellappa (UMCP/EE Chair) </a> 
