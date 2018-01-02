@@ -44,7 +44,7 @@ Machine intelligence/vision/learning: deep learning, zero-shot learning, unsuper
 
 ### Main tools, languages, frameworks
 
-Matlab, Python, C++, Keras, OpenCV, most Python data science libraries, PHP, MySQL, ...
+Matlab, Python, C++, Keras, caffe, OpenCV, most Python data science libraries, PHP, MySQL, ...
 
 ### Some current and past collaborators and mentors
 
