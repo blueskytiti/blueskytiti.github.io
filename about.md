@@ -46,7 +46,7 @@ Machine intelligence/vision/learning: deep learning, zero-shot learning, unsuper
 
 Matlab, Python, C++, Keras, caffe, OpenCV, most Python data science libraries, PHP, MySQL, ...
 
-### patents
+### Patents
 
 [patents](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=philippe+burlina+patent&btnG=)
 
