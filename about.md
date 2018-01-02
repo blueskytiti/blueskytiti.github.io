@@ -62,7 +62,7 @@ Matlab, Python, C++, Keras, caffe, OpenCV, most Python data science libraries, P
 <a href="http://www.mast.queensu.ca/%7Efady/">F. Alajaji (Math Dept. Queens U (CA)/Faculty)  </a> 
 <a href="https://www.pdx.edu/math/faculty-staff-0"> B. Jedynak (Oregon state/Faculty) </a>
 <a href="https://www.cs.umd.edu/~chiraz/"> C. BenAbdelkader</a>
-<a href="http://www.computing.dundee.ac.uk/about/staff/26">E. Trucco</a>
+<a href="http://www.computing.dundee.ac.uk/about/staff/26">E. Trucco (U. Dundee, UK/Faculty)</a>
 <a href="http://www.cpdiehl.org/">C. Diehl (Motiva.ai/CTO)</a> 
 
 <a href="http://www.hopkinsmedicine.org/wilmer/employees/cvs/Bressler_N.html">N. Bressler (JHU Ophtlmology-Retina dept. chair)</a> 
