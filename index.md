@@ -5,7 +5,9 @@
 [[CV]](./cv.html)
 [[other]](./other.html)
 
+## About
 
+[about](./about.html)
 
 ## Work/Research/Development
 
