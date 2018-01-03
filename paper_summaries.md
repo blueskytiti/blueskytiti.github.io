@@ -1,5 +1,6 @@
 # PAPER SUMMARIES
-A short description of notable (*) or interesting papers, loosely following this MD format
+
+A list of some notable (*) or interesting papers in DL, with a short description loosely following this MD format
 ```
 '***title, author et al, year**
 
