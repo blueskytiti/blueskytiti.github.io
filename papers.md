@@ -1,10 +1,6 @@
 
 [[home]](./index.html)
-[[about]](./about.html)
 [[papers]](./papers.html)
-[[resources]](./resources.html)
-[[CV]](./cv.html)
-[[other]](./other.html)
 
 &nbsp;&nbsp;&nbsp;
 
