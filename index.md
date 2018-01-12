@@ -3,9 +3,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-# About
-
-[about](./about.html)
 
 # Work/Research/Projects
 
