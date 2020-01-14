@@ -1,12 +1,12 @@
 [[home]](./index.html)
-[[papers]](./papers.html)
+[[fair]](./fair.html)
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 
-# Work/Research/Projects
+# Areas
 
-### Zero / X-shot learning / learning in low training data regimes
+### Learning with little data / adaptive shot
 [Semantic Zero Shot Learning](http://ieeexplore.ieee.org/document/7424431/)
 
 [Hybrid Hierachical/Semantic Zero-Shot Learning](https://arxiv.org/abs/1712.03151)
@@ -17,14 +17,14 @@
 [MRCNNs](http://ieeexplore.ieee.org/abstract/document/7900179/) 
 
 
-### Deep reinforcement learning
+### DRL
 
 [DRL/robotic reaching](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w5/papers/Katyal_Leveraging_Deep_Reinforcement_CVPR_2017_paper.pdf)
 
 [DRL/robotic grasping](https://www.cs.jhu.edu/~areiter/JHU/Publications_files/2017-nips-drl.pdf)
 
 
-### Deep learning / machine learning in medicine 
+### AI in medicine 
 
 [Deep learning for rare muscle disease diagnostics](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184059)
 
@@ -42,7 +42,7 @@
 
 [Machine learning for estimation of skin constituents](https://www.spiedigitallibrary.org/journals/Journal-of-Biomedical-Optics/volume-18/issue-5/057008/Estimating-physiological-skin-parameters-from-hyperspectral-signatures/10.1117/1.JBO.18.5.057008.short)
 
-### Deep learning for retinal image analysis
+### AI for retinal
 
 [Automated grading of age-related macular degeneration via deep learning](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2654969?guestAccessKey=8b7d58b3-4316-4721-9de5-5dec5d3bc62d)
 
@@ -59,5 +59,3 @@
 
 [distributed vision sensors, consensus pose estimation](http://icwww.epfl.ch/~jorstad/Files/Distributed_Consensus_on_Camera_Pose.pdf)
 
-## Resources
-[interesting paper summaries](./paper_summaries.html)
